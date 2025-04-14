@@ -1,3 +1,4 @@
+![Uploading file_00000000cd84620ab5c40d1b4b15c34c_conversation_id=67f95e55-44bc-800d-9738-7be116d0be06&message_id=62fde9e3-b30c-4e40-b840-a16d228b75ff.png…]()
 İAnladım! Pasta tasarımının içinde olmasını istiyorsun. O zaman, Markdown'da pasta tasarımını ve mesajını hem yazılı olarak hem de görsel olarak ekleyebiliriz.
 
 1. Pasta Tasarımını ve Mesajı GitHub'a Eklemek
